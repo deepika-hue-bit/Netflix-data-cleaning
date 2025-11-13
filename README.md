@@ -23,11 +23,13 @@ This project demonstrates data cleaning and preprocessing using Python (Pandas) 
 2. - Open netflix_cleaning.ipynb in Jupyter Notebook
 3. - Run the cells to reproduce the cleaning process
 
-Skills Practiced- Data cleaning with Pandas
+## Skills Practiced- Data cleaning with Pandas
 - Handling missing values
 - Working with dates and text formats
 - Preparing data for analysis or modeling
-License
+
+- 
+## License
 This project is open-source and free to use under the MIT License.
 
 
